@@ -167,7 +167,7 @@ $g=$f('', $x);
 
 This test payload was automatically detected and blocked by the WAF, confirming our analysis of evasion techniques and validating that WAF protections were now effective. Kind of like giving the immune system a little nudge in the right direction.
 
-**PLAIN ENGLISH/TL:DR:** The attackers used sophisticated disguise techniques – like hiding a skeleton key inside what looks like a normal house key. They split their malicious code into pieces and encoded it so security systems wouldn't recognize it. We reverse-engineered these techniques to understand how they were bypassing security, then decoded the existing malicious payload so the security system could detect and block.
+**PLAIN ENGLISH/TL:DR:** The attackers used sophisticated disguise techniques. Like hiding a skeleton key inside what looks like a normal house key. They split their malicious code into pieces and encoded it so security systems wouldn't recognize it. We reverse-engineered these techniques to understand how they were bypassing security, then decoded the existing malicious payload so the security system could detect and block.
 
 ## Testing Vulnerability Confirmation
 
