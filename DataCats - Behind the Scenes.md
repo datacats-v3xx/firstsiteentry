@@ -88,7 +88,7 @@ We employed systematic techniques to identify compromised components:
     
     Identified recently modified files containing heavily obfuscated code designed to evade WAF detection. It had our full attention.
     
-**PLAIN ENGLISH/TL:DR:** We found a backdoor into the website – like finding a hidden door that burglars were using to get into a building. This backdoor let attackers run commands on the website server, potentially accessing customer information and making unauthorized changes.
+**PLAIN ENGLISH/TL:DR:** We found a backdoor into the website. Like finding a hidden door that burglars were using to get into a building. This backdoor let attackers run commands on the website server, potentially accessing customer information and making unauthorized changes.
 
 ## Vulnerability Analysis
 
